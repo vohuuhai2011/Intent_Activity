@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intent_Activity-master.iml" filepath="$PROJECT_DIR$/Intent_Activity-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\LapTrinhDD\Intent_Activity-master\app\app.iml" filepath="E:\LapTrinhDD\Intent_Activity-master\app\app.iml" />
+      <module fileurl="file://E:\LapTrinhDD\Intent_Activity-master\intent_activity2.iml" filepath="E:\LapTrinhDD\Intent_Activity-master\intent_activity2.iml" />
+    </modules>
+  </component>
+</project>
